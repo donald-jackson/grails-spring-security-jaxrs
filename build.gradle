@@ -65,7 +65,7 @@ dependencies {
 
     console "org.grails:grails-console"
 
-    compile 'org.grails.plugins:spring-security-core:3.0.0'
+    compile 'org.grails.plugins:spring-security-core:3.1.2'
 
     compile 'org.grails.plugins:jaxrs:0.12'
 }
